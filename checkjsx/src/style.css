@@ -1,0 +1,12 @@
+ .title.red {
+background-color: black;
+    color: red;
+    font-family: monospace;
+    font-size: 50pt;
+    font-weight: 900;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+}
